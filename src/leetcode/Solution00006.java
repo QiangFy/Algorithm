@@ -21,7 +21,7 @@ public class Solution00006 {
      * 示例 1：
      * 输入：s = "PAYPALISHIRING", numRows = 3
      * 输出："PAHNAPLSIIGYIR"
-     * <p>
+     *  
      * 示例 2：
      * 输入：s = "PAYPALISHIRING", numRows = 4
      * 输出："PINALSIGYAHRPI"
@@ -30,11 +30,11 @@ public class Solution00006 {
      * A   L S  I G
      * Y A   H R
      * P     I
-     * <p>
+     *  
      * 示例 3：
      * 输入：s = "A", numRows = 1
      * 输出："A"
-     * <p>
+     *  
      * 提示：
      * 1 <= s.length <= 1000
      * s 由英文字母（小写和大写）、',' 和 '.' 组成
