@@ -55,11 +55,6 @@ public class Solution00025 {
         return tail;
     }
 
-    public static void main(String[] args) {
-        ListNode listNode = new ListNode(1, new ListNode(2, new ListNode(3, new ListNode(4, new ListNode(5)))));
-        new Solution00025().reverseKGroup(listNode, 3);
-    }
-
     /**
      * Definition for singly-linked list.
      */
